@@ -31,9 +31,8 @@
 <body>
 <div class="block2">
 <?php
-include "header.php";
 include_once "action.php";
-include "movies.php"; 
+
 
 $str_form_sort = '<h3 style = color:black;>Сортировать по:</h3>
 <form  name="sortForm"   method="post">
