@@ -41,7 +41,6 @@
     </style>
 </head>
 <body>
-    
 <?php
 include "db.php";
 
