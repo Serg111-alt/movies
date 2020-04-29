@@ -42,7 +42,6 @@
     <img src="images/video.png" alt="">
     <p>Вы выбрали фильм <?=$_GET['movie']?>,сеанс <?=$_GET['session']?> Кол-во мест  <?=$_GET['place']?>    
       <?php
-
       $ticket = 99;
       $pl =  $ticket*$_GET['place'];
       $dis = $pl*$_GET['discont'];
