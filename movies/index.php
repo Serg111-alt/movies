@@ -72,10 +72,8 @@
                             .Track Cinema
                         </a>
                         <?php
-
 ob_start(); 
-include_once "action.php";
-   
+include_once "action.php"; 
 if (isset($_POST['go'])) {
     $login = $_POST['login'];
     $password = $_POST['pass'];
@@ -89,7 +87,6 @@ if (isset($_POST['go'])) {
         echo "<p style = \"margin-left:380px;padding:5px;color:white;font-size:25px;\">Вы не зарегистрированы!</p>";
     }
 }
-
  ?>
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="#top" class="active">Главная</a></li>
