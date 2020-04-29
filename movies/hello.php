@@ -102,10 +102,6 @@ if (isset($_GET['login']) && $_GET['login'] != "") {
 	} else {
 		header("Location: index.php");
 	}
-
-
-
-
 ?>
 </body>
 </html>
