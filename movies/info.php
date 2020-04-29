@@ -40,8 +40,7 @@
 <body>
      <div class = "cont" id = "style">
     <img src="images/video.png" alt="">
-    <p>Вы выбрали фильм <?=$_GET['movie']?>,сеанс <?=$_GET['session']?> Кол-во мест  <?=$_GET['place']?>   
-    
+    <p>Вы выбрали фильм <?=$_GET['movie']?>,сеанс <?=$_GET['session']?> Кол-во мест  <?=$_GET['place']?>    
       <?php
 
       $ticket = 99;
@@ -54,9 +53,7 @@
       else{
           
            echo  "Ваша цена"." ". $p."грн"." "."со скидкой по купону";
-      }
-  
-    
+      }   
      ?>
      </div>
      <a href="" id="button4" >Оплата</a>
