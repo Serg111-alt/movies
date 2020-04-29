@@ -89,8 +89,7 @@ $str_form_search = "<h3 style = color:black;>Поиск:</h3>
               
  		     </form>";
 
-    echo $str_form_search;
-    
+    echo $str_form_search;   
 ?>
 
    </br>
