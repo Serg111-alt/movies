@@ -159,10 +159,7 @@ if (isset($_POST['go'])) {
                 <div class="block2">
                 <div class="col-lg-6 col-md-6 col-xs-12">
                     <div class="left-text-content">
-                        <div class="section-heading">
-                        
-                            
-                                  
+                        <div class="section-heading">                            
                 <?php
 // echo "<div style=\"font-size:50px;color:white;\">Вход</div>";
 
