@@ -269,7 +269,7 @@ $str_form = "<span id='massage'></span>
    
         <div class="block" id = "tickets">
        
-        <iframe src="content.php" width="1615" height="1650"></iframe>
+        <iframe src="content.php" width="1580" height="1650"></iframe>
         
     
     <!-- ***** Contact Us Area Ends ***** -->
