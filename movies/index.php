@@ -8,12 +8,6 @@
     color:black;
 }
 
-
-#form{
-    font-size:25px;
-    color:white;
-   margin-left:200px;
-}
 .table-container{
     width: 100%;
     overflow-x: scroll;
