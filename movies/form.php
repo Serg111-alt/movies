@@ -6,7 +6,6 @@
     <title>Document</title>
     <link rel="stylesheet" href="other.css">
     <script src="script.js"></script>
-    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
     <style>
     #massage{
     font-size:35px;
